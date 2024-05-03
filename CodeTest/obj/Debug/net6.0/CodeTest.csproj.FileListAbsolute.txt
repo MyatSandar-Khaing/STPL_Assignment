@@ -1,0 +1,146 @@
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\appsettings.Development.json
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\appsettings.json
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.staticwebassets.runtime.json
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.exe
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.deps.json
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.runtimeconfig.json
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.pdb
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Humanizer.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVC Try\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.csproj.AssemblyReference.cache
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.AssemblyInfoInputs.cache
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.AssemblyInfo.cs
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.csproj.CoreCompileInputs.cache
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.MvcApplicationPartsAssemblyInfo.cache
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.RazorAssemblyInfo.cache
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.RazorAssemblyInfo.cs
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets\msbuild.CodeTest.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets\msbuild.build.CodeTest.props
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CodeTest.props
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CodeTest.props
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets.build.json
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets.development.json
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\scopedcss\bundle\CodeTest.styles.css
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\scopedcss\projectbundle\CodeTest.bundle.scp.css
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.csproj.CopyComplete
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.dll
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\refint\CodeTest.dll
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.pdb
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.genruntimeconfig.cache
+E:\MVC Try\CodeTest\CodeTest\obj\Debug\net6.0\ref\CodeTest.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\appsettings.Development.json
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\appsettings.json
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.staticwebassets.runtime.json
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.exe
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.deps.json
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.runtimeconfig.json
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\CodeTest.pdb
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Humanizer.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.csproj.AssemblyReference.cache
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.AssemblyInfoInputs.cache
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.AssemblyInfo.cs
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.csproj.CoreCompileInputs.cache
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.RazorAssemblyInfo.cache
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.RazorAssemblyInfo.cs
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets\msbuild.CodeTest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets\msbuild.build.CodeTest.props
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CodeTest.props
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CodeTest.props
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets.build.json
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\staticwebassets.development.json
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\scopedcss\bundle\CodeTest.styles.css
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\scopedcss\projectbundle\CodeTest.bundle.scp.css
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.csproj.CopyComplete
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\refint\CodeTest.dll
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.pdb
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\CodeTest.genruntimeconfig.cache
+D:\Myat Sandar Khaing\A80808\CodeTest\CodeTest\obj\Debug\net6.0\ref\CodeTest.dll
